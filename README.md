@@ -1,5 +1,5 @@
 ## Project Overview:
-✓ Designed and implemented a robust database structure to support a musicrelated business intelligence system. The project involved structuring data to 
+**✓** Designed and implemented a robust database structure to support a music-related business intelligence system. The project involved structuring data to 
 enable effective analysis of customer behaviours, top-selling artists, and 
 revenue trends across regions.
 ## Project Steps:
